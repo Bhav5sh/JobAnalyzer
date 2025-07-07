@@ -1,0 +1,7 @@
+# Distribution / packaging      
+__pycache__
+
+.env
+
+model/salary_model.pkl
+
