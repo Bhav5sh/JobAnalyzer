@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+pdfplumber
+python-docx
+spacy
+joblib
+matplotlib or plotly
+spacy-model-en_core_web_sm

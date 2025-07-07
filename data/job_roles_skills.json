@@ -1,0 +1,8 @@
+{
+  "Data Analyst": "python, sql, excel, tableau, statistics, power bi",
+  "Machine Learning Engineer": "python, sklearn, keras, pandas, model building, deep learning",
+  "Frontend Developer": "html, css, javascript, react, frontend, web design",
+  "Backend Developer": "python, node.js, api, database, flask, django",
+  "Full Stack Developer": "html, css, javascript, react, django, flask, api, sql",
+  "UI/UX Designer": "figma, wireframes, user experience, prototyping, adobe xd"
+}
